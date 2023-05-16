@@ -1,6 +1,13 @@
 # nutriplan
 NutriPlan - Your Intelligent Diet Planner
 
+![Prototype Screenshot](prototype.png)
+
+## Features
+
+- QR code scanning to add food items to the inventory
+- Food item search functionality
+- Intelligent meal planning considering diet, allergies, and available food items
 ## Usage
 
 To use the application:
